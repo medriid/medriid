@@ -13,3 +13,5 @@
 <a href="https://github.com/medriid"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=qmvumbuanhwge32hiyxs30px6" alt="Data Card for Spotify">
 </a>
+
+# Just a note, MEDIUM will be rebranded to MEDIOCRE in the upcoming future, due to issues regarding the name.
