@@ -1,5 +1,5 @@
 
-<!--Hopefully centered the Typing svg properly here-->
+<!--Hopefully centered the typing svg properly here-->
 <br>
 <div align="center">
   <a href="https://github.com/medriid">
